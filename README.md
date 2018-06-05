@@ -1,1 +1,1 @@
-# Ethereum SDK
+# Ethereum JS

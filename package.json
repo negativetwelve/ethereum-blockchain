@@ -1,5 +1,5 @@
 {
-  "name": "ethereum-sdk",
+  "name": "ethereum-js",
   "version": "0.0.1",
   "main": "src/index.js",
   "dependencies": {
