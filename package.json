@@ -1,6 +1,7 @@
 {
   "name": "ethereum-sdk",
   "version": "0.0.1",
+  "main": "src/index.js",
   "dependencies": {
     "@0xproject/web3-wrapper": "0.6.4"
   },
