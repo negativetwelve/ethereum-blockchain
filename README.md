@@ -1,1 +1,1 @@
-# Ethereum JS
+# Ethereum Blockchain
