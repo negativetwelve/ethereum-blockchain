@@ -11,7 +11,7 @@ const run = async () => {
   console.log(`Latest block number: ${blockNumber}`);
 
   const block = await client.getBlockAsync(blockNumber);
-  console.log(`Latest block: ${JSON.stringify(block)}`);
+  console.log(`Latest block:\n${JSON.stringify(block, null, 2)}`);
 };
 
 run();
